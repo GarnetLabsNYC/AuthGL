@@ -1,0 +1,9 @@
+{
+  "database":{
+    "dbUser": "gluser-admin",
+    "dbPass": "$0m3th1ng$Blu3",
+    "dbServer": "ds149763.mlab.com",
+    "dbPort": "49763",
+    "dbName": "dbName"
+  }
+}

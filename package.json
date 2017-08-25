@@ -1,0 +1,37 @@
+{
+  "name": "authgl",
+  "version": "0.0.1",
+  "description": "Intended to be a drop in SSO solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarnetLabsNYC/AuthGL.git"
+  },
+  "author": "Garnet Labs",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/GarnetLabsNYC/AuthGL/issues"
+  },
+  "homepage": "https://github.com/GarnetLabsNYC/AuthGL#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "bunyan": "^1.8.12",
+    "cjson": "^0.5.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.5",
+    "express-validator": "^3.2.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.7",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.0-rc.3"
+  }
+}
